@@ -1,0 +1,594 @@
+{
+  "Student1" : {
+    "degree": "Computer Engineering",
+    "academic_years": [
+      {
+        "year": "2020-2021",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "ORY100", "grade": "A"},
+              {"code": "BİL101", "grade": "B+"},
+              {"code": "BİL105", "grade": "B"},
+              {"code": "BİL110", "grade": "B+"},
+              {"code": "ENG199", "grade": "A"},
+              {"code": "FİZ103", "grade": "B-"},
+              {"code": "FİZ105", "grade": "A-"},
+              {"code": "MAT151", "grade": "B"},
+              {"code": "TÜRK101", "grade": "A"},
+              {"code": "ENG200", "grade": "A-"}
+            ],
+            "yno": 3.44,
+            "gno": 3.44,
+            "status": "Onur"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL122", "grade": "B-"},
+              {"code": "BİL124", "grade": "C+"},
+              {"code": "BİL172", "grade": "B"},
+              {"code": "FİZ104", "grade": "C"},
+              {"code": "FİZ110", "grade": "B"},
+              {"code": "MAT152", "grade": "C-"},
+              {"code": "MAT210", "grade": "C+"},
+              {"code": "TÜRK102", "grade": "A"},
+              {"code": "ATA202", "grade": "B"}
+            ],
+            "yno": 2.58,
+            "gno": 3.03,
+            "status": "Başarılı"
+          }
+        ]
+      },
+      {
+        "year": "2021-2022",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "ATA201", "grade": "C"},
+              {"code": "BİL231", "grade": "C+"},
+              {"code": "BİL265", "grade": "B+"},
+              {"code": "BİL275", "grade": "C"},
+              {"code": "SOS203", "grade": "B-"},
+              {"code": "SOS204", "grade": "C-"}
+            ],
+            "yno": 2.42,
+            "gno": 2.84,
+            "status": "Başarılı"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL210", "grade": "C+"},
+              {"code": "BİL218", "grade": "C-"},
+              {"code": "BİL240", "grade": "C+"},
+              {"code": "MAT250", "grade": "B-"},
+              {"code": "MAT286", "grade": "D+"}
+            ],
+            "yno": 2.06,
+            "gno": 2.67,
+            "status": "Başarılı"
+          }
+        ]
+      },
+      {
+        "year": "2022-2023",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "BİL300", "grade": "A"},
+              {"code": "BİL324", "grade": "D+"},
+              {"code": "BİL343", "grade": "B-"},
+              {"code": "BİL367", "grade": "C-"},
+              {"code": "ENG330", "grade": "A"},
+              {"code": "MAT311", "grade": "F1"}
+            ],
+            "yno": 2.02,
+            "gno": 2.55,
+            "status": "Başarılı"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL479", "grade": "C-"},
+              {"code": "SOS321", "grade": "C+"},
+              {"code": "BİL332", "grade": "B+"},
+              {"code": "BİL344", "grade": "C-"},
+              {"code": "BİL386", "grade": "C+"},
+              {"code": "GSB105", "grade": "A"}
+            ],
+            "yno": 2.35,
+            "gno": 2.52,
+            "status": "Başarılı"
+          }
+        ]
+      },
+      {
+        "year": "2023-2024",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "MAT311", "grade": "C-"},
+              {"code": "BİL387", "grade": "B-"},
+              {"code": "BİL390", "grade": "D"},
+              {"code": "BİL400", "grade": "A"},
+              {"code": "BİL429", "grade": "C-"},
+              {"code": "BİL493", "grade": "A-"},
+              {"code": "ENG460", "grade": "C-"},
+              {"code": "BİL389", "grade": "F2"}
+            ],
+            "yno": 1.99,
+            "gno": 2.48,
+            "status": "Başarılı"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL389", "grade": "A-"},
+              {"code": "BİL458", "grade": "B+"},
+              {"code": "BİL481", "grade": "C+"},
+              {"code": "BİL482", "grade": "B-"},
+              {"code": "BİL494", "grade": "A"}
+            ],
+            "yno": 3.25,
+            "gno": 2.63,
+            "status": "Başarılı"
+          }
+        ]
+      }
+    ]
+  },
+  "Student2" : {
+    "degree": "Computer Engineering",
+    "academic_years": [
+      {
+        "year": "2018-2019",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "ORY100", "grade": "A"}
+            ],
+            "yno": null,
+            "gno": null
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL101", "grade": "A"},
+              {"code": "BİL105", "grade": "A"},
+              {"code": "MAT151", "grade": "A"},
+              {"code": "TÜRK102", "grade": "A"}
+            ],
+            "yno": 4.00,
+            "gno": 4.00,
+            "status": "Yüksek Onur"
+          }
+        ]
+      },
+      {
+        "year": "2019-2020",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "ATA201", "grade": "B"},
+              {"code": "BİL110", "grade": "C+"},
+              {"code": "ENG199", "grade": "A-"},
+              {"code": "FİZ103", "grade": "A"},
+              {"code": "FİZ105", "grade": "A"},
+              {"code": "TÜRK101", "grade": "B+"},
+              {"code": "BİL231", "grade": "B-"},
+              {"code": "BİL275", "grade": "A"},
+              {"code": "SOS203", "grade": "A"}
+            ],
+            "yno": 3.47,
+            "gno": 3.63,
+            "status": "Onur"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL122", "grade": "B"},
+              {"code": "BİL124", "grade": "B-"},
+              {"code": "BİL172", "grade": "B+"},
+              {"code": "BİL218", "grade": "B-"},
+              {"code": "FİZ104", "grade": "B-"},
+              {"code": "FİZ110", "grade": "B+"},
+              {"code": "MAT152", "grade": "C"},
+              {"code": "MAT210", "grade": "C+"}
+            ],
+            "yno": 2.73,
+            "gno": 3.28,
+            "status": "Başarılı"
+          }
+        ]
+      },
+      {
+        "year": "2021-2022",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "BİL265", "grade": "A-"},
+              {"code": "BİL324", "grade": "B"},
+              {"code": "BİL343", "grade": "C"},
+              {"code": "ENG200", "grade": "A"},
+              {"code": "ENG330", "grade": "B+"},
+              {"code": "MAT311", "grade": "B+"},
+              {"code": "SOS204", "grade": "A-"}
+            ],
+            "yno": 3.28,
+            "gno": 3.28,
+            "status": "Onur"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "ATA202", "grade": "B-"},
+              {"code": "BİL210", "grade": "B+"},
+              {"code": "BİL240", "grade": "B-"},
+              {"code": "MAT250", "grade": "B"},
+              {"code": "MAT286", "grade": "C+"}
+            ],
+            "yno": 2.83,
+            "gno": 3.20,
+            "status": "Başarılı"
+          }
+        ]
+      },
+      {
+        "year": "2022-2023",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "BİL300", "grade": "A"},
+              {"code": "BİL367", "grade": "A"},
+              {"code": "BİL387", "grade": "B"},
+              {"code": "BİL396", "grade": "A-"},
+              {"code": "BİL429", "grade": "B-"},
+              {"code": "BİL477", "grade": "B+"},
+              {"code": "ENG460", "grade": "B"}
+            ],
+            "yno": 3.30,
+            "gno": 3.22,
+            "status": "Onur"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL332", "grade": "A"},
+              {"code": "BİL344", "grade": "C"},
+              {"code": "BİL386", "grade": "B"},
+              {"code": "BİL479", "grade": "B"},
+              {"code": "GSB105", "grade": "A-"},
+              {"code": "SOS321", "grade": "C+"}
+            ],
+            "yno": 2.95,
+            "gno": 3.18,
+            "status": "Başarılı"
+          }
+        ]
+      },
+      {
+        "year": "2023-2024",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "BİL390", "grade": "C+"},
+              {"code": "BİL456", "grade": "B"},
+              {"code": "BİL493", "grade": "A"}
+            ],
+            "yno": 3.21,
+            "gno": 3.18,
+            "status": "Onur"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL400", "grade": "S"},
+              {"code": "BİL482", "grade": "B-"},
+              {"code": "BİL494", "grade": "A"}
+            ],
+            "yno": 3.39,
+            "gno": 3.20,
+            "status": "Onur"
+          }
+        ]
+      }
+    ]
+  },
+  "Students3" :{
+    "degree":"Computer Engineering",
+    "academic_years": [
+        {
+          "year": "2020-2021",
+          "semesters": [
+            {
+              "name": "Fall Semester",
+              "courses": [
+                {"code": "ORY100", "grade": "A"},
+                {"code": "BİL101", "grade": "A"},
+                {"code": "BİL105", "grade": "B+"},
+                {"code": "BİL110", "grade": "B+"},
+                {"code": "ENG199", "grade": "A"},
+                {"code": "FİZ103", "grade": "C"},
+                {"code": "FİZ105", "grade": "A"},
+                {"code": "MAT151", "grade": "A-"},
+                {"code": "TÜRK101", "grade": "A"}
+              ],
+              "yno": 3.68,
+              "gno": 3.68,
+              "status": "Yüksek Onur"
+            },
+            {
+              "name": "Spring Semester",
+              "courses": [
+                {"code": "BİL122", "grade": "A-"},
+                {"code": "BİL124", "grade": "A-"},
+                {"code": "BİL172", "grade": "B"},
+                {"code": "FİZ104", "grade": "B"},
+                {"code": "FİZ110", "grade": "B-"},
+                {"code": "MAT152", "grade": "D"},
+                {"code": "MAT210", "grade": "A"},
+                {"code": "TÜRK102", "grade": "A-"}
+              ],
+              "yno": 2.89,
+              "gno": 3.29,
+              "status": "Başarılı"
+            }
+          ]
+        },
+        {
+          "year": "2021-2022",
+          "semesters": [
+            {
+              "name": "Fall Semester",
+              "courses": [
+                {"code": "ATA201", "grade": "C+"},
+                {"code": "BİL231", "grade": "B+"},
+                {"code": "BİL265", "grade": "A"},
+                {"code": "BİL275", "grade": "A"},
+                {"code": "ENG200", "grade": "A"},
+                {"code": "SOS203", "grade": "B+"}
+              ],
+              "yno": 3.65,
+              "gno": 3.41,
+              "status": "Onur"
+            },
+            {
+              "name": "Spring Semester",
+              "courses": [
+                {"code": "ATA202", "grade": "B+"},
+                {"code": "BİL210", "grade": "A-"},
+                {"code": "BİL218", "grade": "B-"},
+                {"code": "BİL240", "grade": "A"},
+                {"code": "MAT250", "grade": "B-"},
+                {"code": "MAT286", "grade": "B+"}
+              ],
+              "yno": 3.30,
+              "gno": 3.38,
+              "status": "Onur"
+            }
+          ]
+        },
+        {
+          "year": "2022-2023",
+          "semesters": [
+            {
+              "name": "Fall Semester",
+              "courses": [
+                {"code": "BİL324", "grade": "B+"},
+                {"code": "BİL343", "grade": "A-"},
+                {"code": "BİL367", "grade": "A-"},
+                {"code": "ENG330", "grade": "A"},
+                {"code": "MAT311", "grade": "B+"},
+                {"code": "SOS204", "grade": "B-"}
+              ],
+              "yno": 3.46,
+              "gno": 3.40,
+              "status": "Onur"
+            },
+            {
+              "name": "Spring Semester",
+              "courses": [
+                {"code": "BİL332", "grade": "A"},
+                {"code": "SOS321", "grade": "B+"},
+                {"code": "BİL332", "grade": "A"},
+                {"code": "BİL344", "grade": "A"},
+                {"code": "BİL386", "grade": "B+"},
+                {"code": "GSBHSH", "grade": "A"}
+              ],
+              "yno": 3.72,
+              "gno": 3.45,
+              "status": "Onur"
+            }
+          ]
+        },
+        {
+          "year": "2023-2024",
+          "semesters": [
+            {
+              "name": "Fall Semester",
+              "courses": [
+                {"code": "BİL387", "grade": "A"},
+                {"code": "BİL456", "grade": "A-"},
+                {"code": "BİL300", "grade": "A"},
+                {"code": "BİL429", "grade": "A-"},
+                {"code": "BİL493", "grade": "A"},
+                {"code": "ENG460", "grade": "A"}
+              ],
+              "yno":3.88,
+              "gno":3.51,
+              "status":"Yüksek Onur"
+            },
+            {
+              "name": "Spring Semester",
+              "courses": [
+                {"code": "BİL400", "grade": "A"},
+                {"code": "BİL494", "grade": "A"},
+                {"code": "BİL395", "grade": "A"},
+                {"code": "BİL481", "grade": "A"},
+                {"code": "BİL482", "grade": "B"},
+                {"code": "BİL458", "grade": "A-"}
+              ],
+              "yno":3.72,
+              "gno":3.54,
+              "status":"Yüksek Onur"
+            }
+          ]
+        }
+      ]
+  },
+
+  "Student4":  {
+    "degree": "Computer Engineering",
+    "academic_years": [
+      {
+        "year": "2020-2021",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "ORY100", "credits": 1, "grade": "A"},
+              {"code": "BİL101", "credits": 5, "grade": "B"},
+              {"code": "BİL105", "credits": 2, "grade": "C-"},
+              {"code": "BİL110", "credits": 4, "grade": "B-"},
+              {"code": "ENG199", "credits": 4, "grade": "B"},
+              {"code": "FİZ103", "credits": 2, "grade": "A-"},
+              {"code": "FİZ105", "credits": 5, "grade": "C"},
+              {"code": "MAT151", "credits": 6, "grade": "D+"},
+              {"code": "TÜRK101", "credits": 2, "grade": "C+"}
+            ],
+            "yno": 2.42,
+            "gno": 2.42,
+            "status": "Başarılı"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL122", "credits": 5, "grade": "C+"},
+              {"code": "BİL124", "credits": 2, "grade": "D+"},
+              {"code": "BİL172", "credits": 4, "grade": "B+"},
+              {"code": "FİZ104", "credits": 2, "grade": "B"},
+              {"code": "FİZ110", "credits": 5, "grade": "C-"},
+              {"code": "MAT152", "credits": 6, "grade": "F1"},
+              {"code": "MAT210", "credits": 4, "grade": "B+"},
+              {"code": "TÜRK102", "credits": 2, "grade": "B"},
+              {"code": "ATA202", "credits": 2, "grade": "B+"}
+            ],
+            "yno": 2.11,
+            "gno": 2.26,
+            "status": "Başarılı"
+          }
+        ]
+      },
+      {
+        "year": "2021-2022",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "ATA201", "credits": 2, "grade": "C+"},
+              {"code": "BİL231", "credits": 6, "grade": "D+"},
+              {"code": "BİL265", "credits": 7, "grade": "B-"},
+              {"code": "BİL275", "credits": 7, "grade": "D"},
+              {"code": "ENG200", "credits": 4, "grade": "B"},
+              {"code": "SOS203", "credits": 4, "grade": "B"}
+            ],
+            "yno": 2.19,
+            "gno": 2.24,
+            "status": "Başarılı"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL210", "credits": 6, "grade": "C"},
+              {"code": "BİL218", "credits": 6, "grade": "D"},
+              {"code": "BİL240", "credits": 6, "grade": "D+"},
+              {"code": "MAT250", "credits": 5, "grade": "D+"}
+            ],
+            "yno": 1.11,
+            "gno": 2.08,
+            "status": "Başarılı"
+          }
+        ]
+      },
+      {
+        "year": "2022-2023",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "BİL324", "credits": 5, "grade": "D"},
+              {"code": "BİL343", "credits": 5, "grade": "F1"},
+              {"code": "BİL367", "credits": 5, "grade": "D"},
+              {"code": "ENG330", "credits": 4, "grade": "B"},
+              {"code": "MAT311", "credits": 5, "grade": "D"},
+              {"code": "GSB101", "credits":1, "grade": "B-"}
+            ],
+            "yno": 1.19,
+            "gno": 1.92,
+            "status": "Başarısız"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "BİL383", "credits": 5, "grade": "B-"},
+              {"code": "SOS321", "credits": 3, "grade": "C-"},
+              {"code": "BİL332", "credits": 7, "grade": "C+"},
+              {"code": "BİL344", "credits": 7, "grade": "D+"},
+              {"code": "BİL386", "credits": 7, "grade": "C"},
+              {"code": "BİL479", "credits": 5, "grade": "B-"}
+            ],
+            "yno": 2.10,
+            "gno": 1.96,
+            "status": "Başarısız"
+          }
+        ]
+      },
+      {
+        "year": "2023-2024",
+        "semesters": [
+          {
+            "name": "Fall Semester",
+            "courses": [
+              {"code": "MAT152", "credits": 6, "grade": "C-"},
+              {"code": "BİL300", "credits": 2, "grade": "A"},
+              {"code": "BİL343", "credits": 5, "grade": "C"},
+              {"code": "BİL443", "credits": 5, "grade": "C+"},
+              {"code": "BİL429", "credits": 7, "grade": "A"},
+              {"code": "BİL493", "credits": 7, "grade": "A"},
+              {"code": "ENG460", "credits": 4, "grade": "A-"},
+              {"code": "BİL456", "credits": 5, "grade": "B+"},
+              {"code": "BİL390", "credits": 5, "grade": "B-"}
+            ],
+            "yno": 3.05,
+            "gno": 2.29,
+            "status":  "Başarılı"
+          },
+          {
+            "name": "Spring Semester",
+            "courses": [
+              {"code": "MAT286", "credits": 5, "grade": "D"},
+              {"code": "BİL400", "credits": 2, "grade": "A"},
+              {"code": "BİL458", "credits": 5, "grade": "B"},
+              {"code": "BİL482", "credits": 7, "grade": "C"},
+              {"code": "BİL494", "credits": 8, "grade": "A"}
+            ],
+            "yno": 2.58,
+            "gno": 2.34,
+            "status": "Başarılı"
+          }
+        ]
+      }
+    ]
+  }
+}
